@@ -1,2 +1,6 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+.idea/
+.venv/
+catboost_info/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
